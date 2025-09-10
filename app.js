@@ -49,7 +49,6 @@ function visualizarLista(){
 // funcion que crear el numero aleatorio
 function crearNumeroAleatorio(rango){
     numeroAleatorio = Math.floor(Math.random()*rango)
-    console.log(numeroAleatorio)
     return numeroAleatorio
 }
 
