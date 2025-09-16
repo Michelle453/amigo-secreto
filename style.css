@@ -158,7 +158,9 @@ ul {
 .button-draw:disabled {
     background: #898989;
 }
-
+.button-draw:disabled:hover {
+    background: #898989;
+}
 .button-draw img {
     margin-right: 40px;
 }
