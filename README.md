@@ -6,6 +6,11 @@ Este proyecto fue desarrollado con **HTML, CSS y JavaScript**.
 
 ---
 
+## 🌍 Demo Live
+🔗 [Visita Amigo Secreto]()
+
+---
+
 ## 📌 Funcionalidades  
 
 - ➕ **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo en el campo de entrada y añadirlo a la lista.  
@@ -53,8 +58,13 @@ Este proyecto fue desarrollado con **HTML, CSS y JavaScript**.
 
    
 ---
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
-- HTML5. 
-- CSS3.
-- JavaScript.
+- **HTML5.** 
+- **CSS3.**
+- **JavaScript.**
+  
+---
+
+⭐ ¡Si te gusto el proyecto no olvides darle una estrella en GitHub! ⭐  
+Gracias por visitar **Amigo Secreto** 💻✨
